@@ -1,245 +1,429 @@
-# 🍽 餐廳規劃
+# 🍽 餐廳與用餐規劃
 
-[← 回首頁](README.md)
+[← 回到詳細資訊](README.md#詳細資訊)
 
 ---
 
-# 🎯 用餐策略
+# 🎯 用餐原則
 
-本次旅遊原則：
+✅ Ethan / Lisa 接受度優先
 
-✅ 不每天吃海鮮
+✅ 義式、西式為主
 
-✅ 安排不同料理
+✅ 印尼料理體驗即可
 
-✅ 兼顧大人與小孩
+✅ 每天至少安排海景餐廳
 
-✅ 享受海景餐廳
+✅ 不要為了美食趕行程
 
 ---
 
 # Day 1｜1/23（六）
+## 台北 → 峇里島 → Sanur
 
-## 晚餐
+### 早餐
+
+🥪 Pei 愛心早餐
+
+出發前一天準備
+
+- 三明治
+- 飯糰
+- 麵包
+- 水煮蛋
+- 牛奶
+- 咖啡
+
+---
+
+⏰ 時程
+
+05:30 起床
+
+06:00 出發
+
+07:00 抵達桃園機場
+
+---
+
+### 午餐
+
+✈️ CI771 機上餐
+
+---
+
+### 下午茶
+
+☕
+
+Sanur 海邊咖啡廳
+
+視精神狀況決定
+
+---
+
+### 晚餐
 
 🍝 Massimo Italian
 
+https://massimobali.com/
+
 推薦：
 
-- 義大利麵
 - Pizza
+- Pasta
 - Gelato
 
 ---
 
-備選：
-
-🍹 Soul on the Beach
-
----
-
 # Day 2｜1/24（日）
+## Sanur → 藍夢島
 
-## 晚餐
+### 早餐
 
-🦞 Sandy Bay Beach Club
-
-主題：
-
-海鮮之夜
+🍳 Sanur 飯店早餐
 
 ---
 
-推薦：
+### 午餐
 
-- Grilled Fish
-- Seafood Platter
-- Squid
-- Beer
-
----
-
-重點：
-
-✅ Devil's Tear 日落後用餐
-
-✅ 海景餐廳
-
----
-
-# Day 3｜1/25（一）
-
-## 晚餐
-
-🍔 The Deck
-
-主題：
-
-輕鬆海景酒吧
-
----
+🍔 海邊餐廳
 
 推薦：
 
 - Burger
-- Pizza
-- Fries
-- Beer
+- Fish & Chips
+- Chicken Wrap
+- Smoothie
 
 ---
 
-重點：
+### 下午茶
 
-✅ 衝浪後補充熱量
+☕
 
-✅ 看海放空
+Batu Karang Pool Bar
+
+---
+
+### 晚餐
+
+🦞 Sandy Bay Beach Club
+
+https://www.sandybaybeachclub.com/
+
+推薦：
+
+- Seafood Platter
+- Grilled Fish
+- Calamari
+- Pasta
+
+---
+
+### 今日重點
+
+🌅 Devil's Tear Sunset
+
+---
+
+# Day 3｜1/25（一）
+## Surf Day
+
+### 早餐
+
+🍳 Batu Karang
+
+---
+
+### 午餐
+
+🏄 衝浪後
+
+推薦：
+
+- Fish & Chips
+- Burger
+- Chicken Sandwich
+- Caesar Salad
+
+---
+
+### 下午茶
+
+🥥 Coconut
+
+🍹 Smoothie Bowl
+
+---
+
+### 晚餐
+
+🍔 The Deck
+
+https://www.thedeckbali.com/
+
+推薦：
+
+- Pizza
+- Burger
+- Fries
+- Dessert
+
+---
+
+### Ethan / Lisa 最愛日
+
+✅ Burger
+
+✅ Pizza
+
+✅ Fries
 
 ---
 
 # Day 4｜1/26（二）
+## Manta Day
 
-## 晚餐
+### 早餐
 
-🦐 Ohana's
-
-主題：
-
-海鮮第二回
+🍳 Batu Karang
 
 ---
+
+### 午餐
+
+📌 視包船方案決定
+
+若不含餐：
+
+推薦回飯店吃
+
+- Club Sandwich
+- Pizza
+- Pasta
+
+---
+
+### 下午茶
+
+☕
+
+Coffee & Cake
+
+---
+
+### 晚餐
+
+🦐 Ohana's Beach Club
+
+https://ohanas.co/
 
 推薦：
 
+- Tuna Steak
 - Grilled Prawns
-- Tuna
 - Seafood Basket
+- Pasta
 
 ---
 
-重點：
+### 今日重點
 
-✅ 浮潛後慶功宴
+🐟 Manta Point
 
-✅ Beach Club 氣氛
+💆 SPA
+
+🍹 Beach Club
 
 ---
 
 # Day 5｜1/27（三）
+## Surf Day #2
 
-## 晚餐
+### 早餐
 
-🥩 Indiana Kenanga
-
-主題：
-
-約會之夜
+🍳 Batu Karang
 
 ---
+
+### 午餐
+
+🍔 Western Style
 
 推薦：
 
-- Steak
+- Burger
 - Pasta
-- French Cuisine
+- Pizza
 
 ---
 
-重點：
+### 下午茶
 
-✅ 全旅程最正式晚餐
+☕
 
-✅ 適合家庭合照
+The Deck
+
+---
+
+### 晚餐
+
+🥩 Indiana Kenanga
+
+https://www.indianakenanga.com/
+
+推薦：
+
+- Ribeye Steak
+- Tenderloin
+- Pasta
+- Dessert
+
+---
+
+### 今日重點
+
+❤️ Family Premium Dinner
+
+📸 拍家庭照
 
 ---
 
 # Day 6｜1/28（四）
+## Relax Day
 
-## 晚餐
+### 早餐
 
-🍛 Batu Karang Restaurant
-
-主題：
-
-印尼料理
+🍳 Batu Karang
 
 ---
+
+### 午餐
+
+🍝 Batu Karang Restaurant
+
+https://batukaranglembongan.com/
+
+推薦：
+
+- Pasta
+- Grilled Chicken
+- Club Sandwich
+
+---
+
+### 下午茶
+
+🍹 Ohana's
+
+或
+
+☕
+
+The Deck
+
+---
+
+### 晚餐
+
+🍛 印尼料理體驗日
 
 推薦：
 
 - Nasi Goreng
 - Satay
-- Local Curry
+
+只安排這一天體驗即可
 
 ---
 
-重點：
+### 今日重點
 
-✅ 不用外出
+🏖 完全放空
 
-✅ 享受飯店夜晚
+🌅 看夕陽
 
 ---
 
 # Day 7｜1/29（五）
+## 回到 Sanur
 
-## 晚餐
+### 早餐
 
-🍺 Sanur Beachfront Restaurant
-
-主題：
-
-最後一晚
+🍳 Batu Karang
 
 ---
 
-建議：
+### 午餐
 
-- 印尼料理
-- 海鮮
-- 啤酒
+🚤 搭船前
 
----
+簡單用餐
 
-重點：
-
-✅ 回顧旅程
-
-✅ 準備返台
+- Sandwich
+- Burger
 
 ---
 
-# ☕ 下午茶推薦
+### 下午茶
 
-## The Deck
+☕
 
-推薦日期：
-
-Day 5
-Day 6
+Sanur Beachwalk
 
 ---
 
-## Ohana's
+### 晚餐
 
-推薦日期：
+🌊 Sanur Beachfront Restaurant
 
-Day 6
-
----
-
-# 🍦 甜點
-
-## Gelato
-
-Sanur
+旅程總結晚餐
 
 推薦：
 
-Massimo
+- Seafood
+- Steak
+- Pasta
 
 ---
 
-# 👨‍👩‍👧‍👦 Ethan & Lisa 友善選項
+# Day 8｜1/30（六）
+## 返回台灣
+
+### 早餐
+
+🍳 Sanur 飯店早餐
+
+---
+
+### 午餐
+
+✈️ 機場或機上餐
+
+---
+
+### 晚餐
+
+✈️ CI772 機上餐
+
+---
+
+# 🍦 必吃清單
+
+- [ ] Massimo Gelato
+- [ ] Pizza
+- [ ] Burger
+- [ ] Fish & Chips
+- [ ] Ribeye Steak
+- [ ] Tuna Steak
+- [ ] Seafood Platter
+- [ ] Smoothie Bowl
+- [ ] Coconut
+
+---
+
+# 👨‍👩‍👧‍👦 Ethan & Lisa Favor
 
 ✅ Pizza
 
@@ -247,36 +431,39 @@ Massimo
 
 ✅ Burger
 
+✅ Fries
+
 ✅ Fish & Chips
 
-✅ Fries
+✅ Gelato
+
+✅ Smoothie
 
 ✅ Ice Cream
 
 ---
 
-# ✅ 是否需預約
-
-| 餐廳 | 預約 |
-|--------|--------|
-| Massimo | 建議 |
-| Sandy Bay | 建議 |
-| The Deck | 不需 |
-| Ohana's | 建議 |
-| Indiana Kenanga | 建議 |
-| Batu Karang | 不需 |
-| Sanur Dinner | 彭場決定 |
-
----
-
-# ⭐ 最期待
+# 🍽 餐廳期待排行榜
 
 🥇 Indiana Kenanga
 
-🥈 Sandy Bay
+🥈 Sandy Bay Beach Club
 
 🥉 Ohana's
 
+4️⃣ The Deck
+
+5️⃣ Massimo
+
 ---
 
-[← 回到詳細資訊](README.md#-詳細資訊)
+# ✅ 待確認
+
+- [ ] Day4 包船是否含午餐
+- [ ] Sandy Bay 訂位
+- [ ] Indiana Kenanga 訂位
+- [ ] Ohana's 訂位
+
+---
+
+[← 回到詳細資訊](README.md#詳細資訊)

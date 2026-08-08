@@ -12,11 +12,13 @@
 
 ✅ 義式、西式為主
 
-✅ 印尼料理體驗即可
+✅ 海鮮適量安排
 
-✅ 每天至少安排海景餐廳
+✅ 每天至少安排一次看海時間
 
-✅ 不要為了美食趕行程
+✅ 不為了美食趕行程
+
+✅ 保持輕鬆度假節奏
 
 ---
 
@@ -28,6 +30,8 @@
 🥪 Pei 愛心早餐
 
 出發前一天準備
+
+建議：
 
 - 三明治
 - 飯糰
@@ -48,6 +52,18 @@
 
 ---
 
+### 候機補給
+
+☕
+
+依需求購買：
+
+- Starbucks
+- 路易莎
+- 超商飲料
+
+---
+
 ### 午餐
 
 ✈️ CI771 機上餐
@@ -60,7 +76,7 @@
 
 Sanur 海邊咖啡廳
 
-視精神狀況決定
+依抵達時間與精神狀況決定
 
 ---
 
@@ -78,6 +94,14 @@ https://massimobali.com/
 
 ---
 
+### 今日重點
+
+✅ 抵達峇里島
+
+✅ 第一頓度假晚餐
+
+---
+
 # Day 2｜1/24（日）
 ## Sanur → 藍夢島
 
@@ -89,7 +113,7 @@ https://massimobali.com/
 
 ### 午餐
 
-🍔 海邊餐廳
+🍔 Jungut Batu 海邊餐廳
 
 推薦：
 
@@ -125,6 +149,8 @@ https://www.sandybaybeachclub.com/
 
 ### 今日重點
 
+🚗 Buggy 環島
+
 🌅 Devil's Tear Sunset
 
 ---
@@ -134,13 +160,13 @@ https://www.sandybaybeachclub.com/
 
 ### 早餐
 
-🍳 Batu Karang
+🍳 Batu Karang 早餐
 
 ---
 
 ### 午餐
 
-🏄 衝浪後
+🏄 衝浪後補充熱量
 
 推薦：
 
@@ -156,6 +182,8 @@ https://www.sandybaybeachclub.com/
 🥥 Coconut
 
 🍹 Smoothie Bowl
+
+SUP 結束後享用
 
 ---
 
@@ -174,11 +202,11 @@ https://www.thedeckbali.com/
 
 ---
 
-### Ethan / Lisa 最愛日
-
-✅ Burger
+### Ethan & Lisa 最愛日
 
 ✅ Pizza
+
+✅ Burger
 
 ✅ Fries
 
@@ -191,19 +219,33 @@ https://www.thedeckbali.com/
 
 🍳 Batu Karang
 
+建議吃飽一點
+
+上午浮潛行程
+
 ---
 
 ### 午餐
 
-📌 視包船方案決定
+🐟 浮潛結束後
 
-若不含餐：
+預計 12:30 用餐
 
-推薦回飯店吃
+推薦：
 
-- Club Sandwich
-- Pizza
-- Pasta
+🍝 Batu Karang Restaurant
+
+或
+
+🍔 Club Sandwich
+
+或
+
+🍕 Pizza
+
+或
+
+🍝 Pasta
 
 ---
 
@@ -212,6 +254,8 @@ https://www.thedeckbali.com/
 ☕
 
 Coffee & Cake
+
+SPA 前輕鬆享用
 
 ---
 
@@ -236,7 +280,7 @@ https://ohanas.co/
 
 💆 SPA
 
-🍹 Beach Club
+🍹 Sunset & Beach Club
 
 ---
 
@@ -251,13 +295,14 @@ https://ohanas.co/
 
 ### 午餐
 
-🍔 Western Style
+🍔 Western Style Lunch
 
 推薦：
 
 - Burger
-- Pasta
 - Pizza
+- Pasta
+- Salad
 
 ---
 
@@ -288,7 +333,7 @@ https://www.indianakenanga.com/
 
 ❤️ Family Premium Dinner
 
-📸 拍家庭照
+📸 家庭合照
 
 ---
 
@@ -298,6 +343,8 @@ https://www.indianakenanga.com/
 ### 早餐
 
 🍳 Batu Karang
+
+飯店早餐
 
 ---
 
@@ -310,8 +357,9 @@ https://batukaranglembongan.com/
 推薦：
 
 - Pasta
-- Grilled Chicken
 - Club Sandwich
+- Grilled Chicken
+- Caesar Salad
 
 ---
 
@@ -329,14 +377,14 @@ The Deck
 
 ### 晚餐
 
-🍛 印尼料理體驗日
+🥩 Batu Karang Restaurant
 
 推薦：
 
-- Nasi Goreng
-- Satay
-
-只安排這一天體驗即可
+- Steak
+- Grilled Seafood
+- Pasta
+- Dessert
 
 ---
 
@@ -344,12 +392,18 @@ The Deck
 
 🏖 完全放空
 
-🌅 看夕陽
+☕
+
+看海發呆
+
+🌅 欣賞夕陽
+
+🍹 享受最後完整一天
 
 ---
 
 # Day 7｜1/29（五）
-## 回到 Sanur
+## 返回 Sanur
 
 ### 早餐
 
@@ -359,12 +413,13 @@ The Deck
 
 ### 午餐
 
-🚤 搭船前
+🚤 搭船前簡單用餐
 
-簡單用餐
+推薦：
 
 - Sandwich
 - Burger
+- Pasta
 
 ---
 
@@ -372,7 +427,7 @@ The Deck
 
 ☕
 
-Sanur Beachwalk
+Sanur Beach Walk
 
 ---
 
@@ -380,13 +435,21 @@ Sanur Beachwalk
 
 🌊 Sanur Beachfront Restaurant
 
-旅程總結晚餐
+旅程回顧晚餐
 
 推薦：
 
 - Seafood
 - Steak
 - Pasta
+
+---
+
+### 今日重點
+
+🌴 最後一晚
+
+📸 回顧旅程照片
 
 ---
 
@@ -403,11 +466,19 @@ Sanur Beachwalk
 
 ✈️ 機場或機上餐
 
+依實際時間決定
+
 ---
 
 ### 晚餐
 
 ✈️ CI772 機上餐
+
+---
+
+### 今日重點
+
+✅ 平安回家
 
 ---
 
@@ -422,10 +493,11 @@ Sanur Beachwalk
 - [ ] Seafood Platter
 - [ ] Smoothie Bowl
 - [ ] Coconut
+- [ ] Club Sandwich
 
 ---
 
-# 👨‍👩‍👧‍👦 Ethan & Lisa Favor
+# 👨‍👩‍👧‍👦 Ethan & Lisa 最愛
 
 ✅ Pizza
 
@@ -461,10 +533,11 @@ Sanur Beachwalk
 
 # ✅ 待確認
 
-- [ ] Day4 包船是否含午餐
 - [ ] Sandy Bay 訂位
 - [ ] Indiana Kenanga 訂位
 - [ ] Ohana's 訂位
+- [ ] Day 4 浮潛是否含午餐
+- [ ] Day 7 Sanur 最後晚餐餐廳
 
 ---
 

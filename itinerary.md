@@ -275,4 +275,4 @@ Mangrove Area
 
 ---
 
-[← 回首頁](README.md)
+[← 回到詳細資訊](README.md#-詳細資訊)

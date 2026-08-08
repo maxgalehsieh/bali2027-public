@@ -85,7 +85,7 @@ https://batukaranglembongan.com/
 - [🏄 衝浪規劃](surf.md)
 - [🐟 浮潛規劃](snorkeling.md)
 - [🍽 餐廳規劃](restaurants.md)
-- budget.md
+- [💰 預算](budget.md)
 - [✅ 待辦事項](todo.md)
 
 ---

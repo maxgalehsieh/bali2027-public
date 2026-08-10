@@ -59,10 +59,9 @@ CI771
 
 ### 下午
 
-抵達 DPS
+14:35 抵達 DPS
 
-- 入境通關
-- 提領行李
+15:30 完成入境與領行李
 
 ---
 
@@ -76,15 +75,13 @@ DPS Airport
 
 Sanur Hotel
 
-預估 30~45 分鐘
+預估車程 30~45 分鐘
 
 ---
 
 ### 飯店
 
-Check-in
-
-休息
+16:30 Check-in
 
 Sanur 海邊散步
 
@@ -92,7 +89,7 @@ Sanur 海邊散步
 
 ### 晚餐
 
-🍝 Massimo Italian
+18:30 Massimo Italian
 
 備選：
 
@@ -104,6 +101,7 @@ Sanur 海邊散步
 
 ✅ 抵達峇里島
 
+✅ Sanur 放鬆模式開始
 
 ✅ 提早休息
 
@@ -114,11 +112,15 @@ Sanur 海邊散步
 
 ### 早餐
 
+07:00
+
 🍳 Sanur 飯店早餐
 
 ---
 
 ### 上午
+
+08:45
 
 🚕 Grab
 
@@ -130,14 +132,21 @@ Sanur Harbor
 
 ---
 
-🚤 Fast Boat
+09:30 港口報到
 
-- 10:00 搭船
-- 10:40 抵達 Jungut Batu
+10:00 Fast Boat
+
+🚤 出發
 
 ---
 
-### 中午
+10:40
+
+抵達 Jungut Batu
+
+---
+
+11:15
 
 🏨 Check-in
 
@@ -149,11 +158,15 @@ Sanur Harbor
 
 ### 午餐
 
+12:30
+
 🍔 Jungut Batu 海邊餐廳
 
 ---
 
 ### 下午
+
+14:00
 
 🚗 Buggy 環島
 
@@ -168,6 +181,8 @@ Sanur Harbor
 ---
 
 ### 晚餐
+
+18:00
 
 🦞 Sandy Bay Beach Club
 
@@ -188,11 +203,15 @@ Sanur Harbor
 
 ### 早餐
 
+07:00
+
 🍳 飯店早餐
 
 ---
 
 ### 上午
+
+08:00~10:30
 
 🏄 Surf Coaching #1
 
@@ -206,11 +225,15 @@ Sanur Harbor
 
 ### 午餐
 
+12:00
+
 🍔 Jungut Batu
 
 ---
 
 ### 下午
+
+14:00
 
 🏄‍♂️ Family SUP
 
@@ -220,6 +243,8 @@ Mangrove Area
 
 ### 下午茶
 
+16:00
+
 🥥 Coconut
 
 🍹 Smoothie
@@ -227,6 +252,8 @@ Mangrove Area
 ---
 
 ### 晚餐
+
+18:00
 
 🍔 The Deck
 
@@ -247,29 +274,17 @@ Mangrove Area
 
 ### 早餐
 
+07:00
+
 🍳 飯店早餐
 
 ---
 
 ### 上午
 
-🐟 半日浮潛團
+08:00
 
-行程：
-
-- Manta Point
-- Crystal Bay
-- Mangrove Point
-
----
-
-### 預計時程
-
-07:00 早餐
-
-↓
-
-08:00 飯店接送
+飯店接送
 
 ↓
 
@@ -295,6 +310,8 @@ Mangrove Area
 
 ### 午餐
 
+12:30
+
 🍝 飯店餐廳
 
 或
@@ -309,23 +326,25 @@ Mangrove Area
 
 ### 下午
 
-💆 SPA
+14:00
 
-14:00 開始
+💆 SPA
 
 ---
 
 ### 下午茶
 
+16:30
+
 ☕
 
 Coffee & Cake
 
-16:30
-
 ---
 
 ### 晚餐
+
+18:00
 
 🦐 Ohana's Beach Club
 
@@ -350,11 +369,15 @@ Coffee & Cake
 
 ### 早餐
 
+07:00
+
 🍳 飯店早餐
 
 ---
 
 ### 上午
+
+08:00~10:30
 
 🏄 Surf Coaching #2
 
@@ -366,7 +389,13 @@ Coffee & Cake
 
 ---
 
-### 午餐
+### 中午
+
+11:30 Check-out
+
+---
+
+12:00
 
 🍔 Western Style Lunch
 
@@ -376,7 +405,19 @@ Coffee & Cake
 
 ---
 
+13:30
+
+🏨 Check-in
+
+Batu Karang
+
+（後兩晚）
+
+---
+
 ### 下午
+
+15:00
 
 ☕
 
@@ -390,6 +431,8 @@ The Deck
 
 ### 晚餐
 
+18:30
+
 🥩 Indiana Kenanga
 
 ---
@@ -398,9 +441,9 @@ The Deck
 
 ✅ 第二次衝浪
 
-✅ 家庭正式晚餐
+✅ 入住 Batu Karang
 
-✅ 入住 Batu Karang（後兩晚）
+✅ 家庭正式晚餐
 
 ---
 
@@ -408,6 +451,8 @@ The Deck
 ## Relax Day
 
 ### Maxgale
+
+06:30
 
 🏃 晨跑
 
@@ -437,6 +482,8 @@ Yellow Bridge
 
 ### Pei / Ethan / Lisa
 
+08:00
+
 🚶 海邊散步
 
 📸 拍照
@@ -449,11 +496,15 @@ Yellow Bridge
 
 ### 午餐
 
+12:00
+
 🍝 Batu Karang Restaurant
 
 ---
 
 ### 下午
+
+14:00
 
 🏖️ 泳池
 
@@ -461,13 +512,19 @@ Yellow Bridge
 
 看海
 
-🍹 下午茶
-
 📖 放空
 
 ---
 
+16:00
+
+🍹 下午茶
+
+---
+
 ### 晚餐
+
+18:30
 
 🥩 Batu Karang Restaurant
 
@@ -479,7 +536,7 @@ Yellow Bridge
 
 ✅ 享受 Batu Karang
 
-✅ 旅程最後完整一天
+✅ 最後完整一天
 
 ---
 
@@ -488,11 +545,15 @@ Yellow Bridge
 
 ### 早餐
 
+07:00
+
 🍳 Batu Karang
 
 ---
 
 ### 上午
+
+08:00
 
 🏖️ 泳池
 
@@ -502,7 +563,15 @@ Yellow Bridge
 
 ---
 
-### 中午
+11:00
+
+Check-out
+
+---
+
+### 午餐
+
+12:00
 
 🍔 簡單午餐
 
@@ -510,13 +579,17 @@ Yellow Bridge
 
 ### 下午
 
+13:30
+
+前往碼頭
+
+---
+
+14:00
+
 🚤 返回 Sanur
 
 Jungut Batu
-
-↓
-
-Fast Boat
 
 ↓
 
@@ -524,11 +597,27 @@ Sanur Harbor
 
 ---
 
-🏨 Sanur Hotel Check-in
+15:00
+
+🚕 Grab
+
+Sanur Harbor
+
+↓
+
+Sanur Hotel
+
+---
+
+15:30
+
+🏨 Check-in
 
 ---
 
 ### 下午茶
+
+16:30
 
 ☕
 
@@ -537,6 +626,8 @@ Sanur Beach Walk
 ---
 
 ### 晚餐
+
+18:30
 
 🌊 Sanur Beachfront Restaurant
 
@@ -557,38 +648,86 @@ Sanur Beach Walk
 
 ### 早餐
 
+07:30
+
 🍳 Sanur 飯店早餐
 
 ---
 
 ### 上午
 
-🛍️ 最後採買
+08:30
+
+🏖️ Sanur 散步
 
 ☕
 
 咖啡廳放鬆
 
+🛍️ 最後採買
+
+---
+
+12:00
+
+Check-out
+
 ---
 
 ### 午餐
 
-✈️ 機場或機上餐
+12:15
 
-依實際時間決定
+🍝 Sanur 午餐
+
+或
+
+✈️ 機場用餐
 
 ---
 
-### 下午
+### 前往機場
 
-✈️ CI772
+13:00
+
+🚗 Grab
+
+Sanur Hotel
+
+↓
+
+DPS Airport
+
+預估車程
+
+30~45 分鐘
+
+---
+
+14:00
+
+完成報到
+
+---
+
+### ✈️ 航班
+
+CI772
 
 - DPS 15:45
 - TPE 21:00
 
 ---
 
+### 晚餐
+
+✈️ CI772 機上餐
+
+---
+
 ### 今日重點
+
+✅ 最後採買
 
 ✅ 平安回家
 

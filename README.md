@@ -30,44 +30,31 @@ CI772
 
 ---
 
-## 🏨 住宿
+### 🏨 Taksu Sanur Hotel
 
-### Taksu Sanur Hotel
+🌐 官網：https://taksusanur.com/
 
-📍 Sanur
+📍 地址：Jl. Sudamala No.26  Sanur Kauh, Denpasar, Bali 80228, Indonesia
 
-入住：
+📅 入住：
 
 - 2027/01/23 ~ 2027/01/24
 - 2027/01/29 ~ 2027/01/30
 
-房型：
-
-Family Room
-
-（1 特大床 + 2 單人床）
+🏠 房型：Family Room（1 特大床 + 2 單人床）
 
 ---
 
-### Lembongan Beach Club & Resort
+### 🏨 Lembongan Beach Club & Resort
 
-📍 Nusa Lembongan
+🌐 官網：https://lembonganbeachclubandresort.com/
 
-https://lembonganbeachclub.com/
+📍 地址： Jalan Jungut Batu Beach, Nusa Lembongan, Bali, Indonesia
 
-入住：
+📅 入住： (共 5 晚) : 2027/01/24 ~ 2027/01/29
 
-2027/01/24 ~ 2027/01/29
-
-共 5 晚
-
-房型：
-
-2 Bedroom Private Pool Villa
-
-床型：
-
-2 張特大雙人床
+🏠 房型 (2 張特大雙人床)：
+[Lembongan Beach Club - 2 Bedroom Private Pool Villa](https://lembonganbeachclubandresort.com/accommodations/Two%20Bedroom%20Private%20Pool%20Villa%20with%20Boat%20Return%20Transfer%20and%20Shuttle%20Denpasar)
 
 ---
 

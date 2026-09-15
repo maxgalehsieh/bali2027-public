@@ -116,7 +116,7 @@ Indonesia
 
 ### 房型
 
-[Lembongan Beach Club - 2 Bedroom Private Pool Villa](https://lembonganbeachclubandresort.com/accommodations/Two%20Bedroom%20Private%20Pool%20Villa%20with%20Boat%20Return%20Transfer%20and%20Shuttle%20Denpasar)
+[Lembongan Beach Club - 2 Bedroom Private Pool Villa](https://lembonganbeachclubandresort.com/accommodations/Two%20Bedroom%20Private%20Pool%20Villa%20with%20Boat%20Return%20Transfer%20and%20Shuttle%20Denpasar%20-%20Sanur%20-%20Denpasar?fbclid=IwY2xjawUVjiZwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMTNSY2tDaGxrRklxbFkySzZzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe6YZiw4VZyOPoqiYFuBHywkPlUvBtmQ1a27s4yfxL37go6rAyf2lM6GbaToE_aem_PGWImOQxQPnpcDrs-15wwQ)
 
 ---
 

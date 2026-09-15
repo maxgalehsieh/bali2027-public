@@ -15,9 +15,7 @@
 
 05:50 最後確認行李
 
-06:00 出發
-
-🚕 前往桃園國際機場
+06:00 🚕出發前往桃園國際機場
 
 07:00 抵達機場
 
@@ -67,7 +65,7 @@ CI771
 
 ### 交通
 
-🚗 Grab
+🚗 Grab (預估車程 30~45 分鐘)
 
 DPS Airport
 
@@ -75,27 +73,17 @@ DPS Airport
 
 Taksu Sanur Hotel
 
-預估車程 30~45 分鐘
-
 ---
 
 ### 飯店
 
-16:30 Check-in
-
-🏨 Taksu Sanur Hotel
-
-Sanur 海邊散步
+16:30 Check-in 🏨 Taksu Sanur Hotel - Sanur 海邊散步
 
 ---
 
 ### 晚餐
 
-18:30 Massimo Italian
-
-備選：
-
-- Soul on the Beach
+18:30 Massimo Italian (備選：Soul on the Beach)
 
 ---
 
@@ -114,17 +102,13 @@ Sanur 海邊散步
 
 ### 早餐
 
-07:00
-
-🍳 Taksu Sanur 飯店早餐
+07:00 🍳 Taksu Sanur 飯店早餐
 
 ---
 
 ### 上午
 
-08:45
-
-🚕 Grab
+08:45 🚕 Grab
 
 Taksu Sanur Hotel
 
@@ -136,41 +120,25 @@ Sanur Harbor
 
 09:30 港口報到
 
-10:00 Fast Boat
+10:00 Fast Boat 🚤 出發
 
-🚤 出發
-
----
-
-10:40
-
-抵達 Jungut Batu
+10:40 抵達 Jungut Batu
 
 ---
 
-11:15
-
-🏨 Check-in
-
-Lembongan Beach Club & Resort
-
-2 Bedroom Private Pool Villa
+11:15 🏨 Check-in Lembongan Beach Club & Resort - 2 Bedroom Private Pool Villa
 
 ---
 
 ### 午餐
 
-12:30
-
-🍔 Jungut Batu 海邊餐廳
+12:30 🍔 Jungut Batu 海邊餐廳
 
 ---
 
 ### 下午
 
-14:00
-
-🚗 Buggy 環島
+14:00 🚗 Buggy 環島
 
 景點：
 
@@ -184,9 +152,7 @@ Lembongan Beach Club & Resort
 
 ### 晚餐
 
-18:00
-
-🦞 Sandy Bay Beach Club
+18:00 🦞 Sandy Bay Beach Club
 
 ---
 
@@ -207,17 +173,13 @@ Lembongan Beach Club & Resort
 
 ### 早餐
 
-07:00
-
-🍳 飯店早餐
+07:00 🍳 飯店早餐
 
 ---
 
 ### 上午
 
-08:00~10:30
-
-🏄 Surf Coaching #1
+08:00~10:30 🏄 Surf Coaching #1
 
 內容：
 
@@ -229,17 +191,13 @@ Lembongan Beach Club & Resort
 
 ### 午餐
 
-12:00
-
-🍔 Jungut Batu
+12:00 🍔 Jungut Batu
 
 ---
 
 ### 下午
 
-14:00
-
-🏄‍♂️ Family SUP
+14:00 🏄‍♂️ Family SUP
 
 Mangrove Area
 
@@ -247,19 +205,13 @@ Mangrove Area
 
 ### 下午茶
 
-16:00
-
-🥥 Coconut
-
-🍹 Smoothie
+16:00 🥥 Coconut 🍹 Smoothie
 
 ---
 
 ### 晚餐
 
-18:00
-
-🍔 The Deck
+18:00 🍔 The Deck
 
 ---
 
@@ -286,9 +238,7 @@ Mangrove Area
 
 ### 上午
 
-08:00
-
-飯店接送
+08:00 飯店接送
 
 ↓
 
@@ -314,35 +264,19 @@ Mangrove Area
 
 ### 午餐
 
-12:30
-
-🍝 飯店餐廳
-
-或
-
-🍔 Club Sandwich
-
-或
-
-🍕 Pizza
+12:30 🍝 飯店餐廳 或 🍔 Club Sandwich 或 🍕 Pizza
 
 ---
 
 ### 下午
 
-14:00
-
-💆 SPA
+14:00 💆 SPA
 
 ---
 
 ### 下午茶
 
-16:30
-
-☕
-
-Coffee & Cake
+16:30 ☕ Coffee & Cake
 
 ---
 
@@ -373,17 +307,13 @@ Coffee & Cake
 
 ### 早餐
 
-07:00
-
-🍳 飯店早餐
+07:00 🍳 飯店早餐
 
 ---
 
 ### 上午
 
-08:00~10:30
-
-🏄 Surf Coaching #2
+08:00~10:30 🏄 Surf Coaching #2
 
 目標：
 
@@ -395,9 +325,7 @@ Coffee & Cake
 
 ### 午餐
 
-12:00
-
-🍔 Western Style Lunch
+12:00 🍔 Western Style Lunch
 
 - Burger
 - Pizza
@@ -407,35 +335,19 @@ Coffee & Cake
 
 ### 下午
 
-14:00
-
-🏖️ Private Pool Time
-
-📸 整理照片
-
-☕ Afternoon Coffee
+14:00 🏖️ Private Pool Time 📸 整理照片 ☕ Afternoon Coffee
 
 ---
 
 ### 傍晚
 
-17:00
-
-🌅 Jungut Batu 散步
-
-欣賞夕陽
+17:00 🌅 Jungut Batu 散步 欣賞夕陽
 
 ---
 
 ### 晚餐
 
-18:30
-
-🥩 Indiana Kenanga
-
-或
-
-🦞 Sandy Bay Beach Club
+18:30 🥩 Indiana Kenanga 或 🦞 Sandy Bay Beach Club
 
 ---
 
@@ -456,11 +368,7 @@ Coffee & Cake
 
 ### Maxgale
 
-06:30
-
-🏃 晨跑
-
-約 7~8 公里
+06:30 🏃 晨跑 (約 7~8 公里)
 
 路線：
 
@@ -490,27 +398,13 @@ Dream Beach
 
 ### Pei / Ethan / Lisa
 
-08:00
-
-🚶 海邊散步
-
-📸 拍照
-
-☕
-
-慢活早餐
+08:00 🚶 海邊散步 📸 拍照 ☕ 慢活早餐
 
 ---
 
 ### 午餐
 
-12:00
-
-🍝 飯店餐廳
-
-或
-
-🍔 海邊餐廳
+12:00 🍝 飯店餐廳 或 🍔 海邊餐廳
 
 ---
 
@@ -563,49 +457,33 @@ Dream Beach
 
 ### 早餐
 
-07:00
-
-🍳 Lembongan Beach Club 早餐
+07:00 🍳 Lembongan Beach Club 早餐
 
 ---
 
 ### 上午
 
-08:00
-
-🏖️ 泳池
-
-📸 拍照
-
-🧳 打包
+08:00 🏖️ 泳池 📸 拍照🧳 打包
 
 ---
 
-11:00
-
-Check-out
+11:00 Check-out
 
 ---
 
 ### 午餐
 
-12:00
-
-🍔 簡單午餐
+12:00 🍔 簡單午餐
 
 ---
 
 ### 下午
 
-13:30
-
-前往碼頭
+13:30 前往碼頭
 
 ---
 
-14:00
-
-🚤 返回 Sanur
+14:00 🚤 返回 Sanur
 
 Jungut Batu
 
@@ -615,9 +493,7 @@ Sanur Harbor
 
 ---
 
-15:00
-
-🚕 Grab
+15:00 🚕 Grab
 
 Sanur Harbor
 
@@ -627,23 +503,13 @@ Taksu Sanur Hotel
 
 ---
 
-15:30
-
-🏨 Check-in
-
-Taksu Sanur Hotel
-
-Family Room
+15:30 🏨 Check-in Taksu Sanur Hotel Family Room
 
 ---
 
 ### 下午茶
 
-16:30
-
-☕
-
-Sanur Beach Walk
+16:30 ☕ Sanur Beach Walk
 
 ---
 
@@ -678,41 +544,23 @@ Sanur Beach Walk
 
 ### 上午
 
-08:30
-
-🏖️ Sanur 散步
-
-☕
-
-咖啡廳放鬆
-
-🛍️ 最後採買
+08:30 🏖️ Sanur 散步 ☕ 咖啡廳放鬆 🛍️ 最後採買
 
 ---
 
-12:00
-
-Check-out
+12:00 Check-out
 
 ---
 
 ### 午餐
 
-12:15
-
-🍝 Sanur 午餐
-
-或
-
-✈️ 機場用餐
+12:15 🍝 Sanur 午餐 或 ✈️ 機場用餐
 
 ---
 
 ### 前往機場
 
-13:00
-
-🚗 Grab
+13:00 🚗 Grab (預估車程 : 30~45 分鐘)
 
 Taksu Sanur Hotel
 
@@ -720,15 +568,9 @@ Taksu Sanur Hotel
 
 DPS Airport
 
-預估車程
-
-30~45 分鐘
-
 ---
 
-14:00
-
-完成報到
+14:00 完成報到
 
 ---
 

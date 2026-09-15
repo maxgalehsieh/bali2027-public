@@ -12,11 +12,25 @@
 
 入住日期：
 
-2027/01/23
+2027/01/23 ~ 2027/01/24
 
 住宿：
 
-待確認
+### Taksu Sanur Hotel
+
+房型：
+
+Family Room（1 張特大床 + 2 張單人床）
+
+入住人數：
+
+4 人
+
+含早餐
+
+價格：
+
+NT$ 4,000
 
 ---
 
@@ -24,121 +38,95 @@
 
 入住日期：
 
-2027/01/29
+2027/01/29 ~ 2027/01/30
 
 住宿：
 
-待確認
+### Taksu Sanur Hotel
+
+房型：
+
+Family Room（1 張特大床 + 2 張單人床）
+
+入住人數：
+
+4 人
+
+含早餐
+
+價格：
+
+NT$ 4,000
 
 ---
 
-## 選擇原則
-
-✅ 靠近海邊
+## 選擇原因
 
 ✅ 靠近 Sanur Harbor
 
-✅ 抵達第一天方便休息
+✅ 第一晚方便休息
 
 ✅ 回程前一晚輕鬆入住
 
+✅ 家庭房可一次入住四人
+
+✅ 價格實惠
+
 ---
 
-# 🌴 藍夢島住宿策略
+# 🌴 藍夢島住宿
 
-## 前三晚（Day 2 ~ Day 4）
+## Day 2 ~ Day 6
 
 入住日期：
 
-2027/01/24 ~ 2027/01/27
+2027/01/24 ~ 2027/01/29
 
 住宿：
 
-🔍 評估中
+### Lembongan Beach Club & Resort
 
----
+房型：
 
-### 需求
+2 Bedroom Private Pool Villa
 
-✅ 適合家庭
+床型：
 
-✅ 交通方便
+2 張特大雙人床
 
-✅ 泳池
+入住人數：
 
-✅ 接近衝浪區
+4 人
 
-✅ 接近 Jungut Batu
+含早餐
 
----
+住宿晚數：
 
-### 候選飯店
+5 晚
 
-- Batu Karang
-- Indiana Kenanga
-- Ohana's Boutique Resort
-- 其他待研究
+總價：
 
----
-
-### 待辦事項
-
-- [ ] 飯店比較
-- [ ] 房型比較
-- [ ] 價格比較
-- [ ] 取消政策確認
-
----
-
-# 🌅 後兩晚（Day 5 ~ Day 6）
-
-## Batu Karang Resort
+NT$ 45,000
 
 官網：
 
-https://batukaranglembongan.com/
+https://lembonganbeachclub.com/
 
 ---
 
-Google Maps
+### 房型特色
 
-https://maps.google.com/?q=Batu+Karang+Lembongan+Resort
+✅ 獨立泳池 Villa
 
----
+✅ 兩房配置適合家庭
 
-入住日期
+✅ 步行可達海灘
 
-2027/01/27 ~ 2027/01/29
+✅ Resort 設施完整
 
-共 2 晚
+✅ 五晚不用換飯店
 
----
-
-### 選擇原因
-
-✅ 藍夢島指標飯店
-
-✅ 景觀泳池
-
-✅ 適合放空
-
-✅ 適合 Day 6 Relax Day
-
-✅ 旅程後段住好一點
-
-✅ 可作為最後兩晚重點享受
-
----
-
-### 房型
-
-待確認
-
-候選：
-
-- Ocean View Villa
-- Family Villa
-- Two Bedroom Villa
+✅ 減少搬運行李與交通時間
 
 ---
 
@@ -150,8 +138,6 @@ https://maps.google.com/?q=Batu+Karang+Lembongan+Resort
 
 2027/01/24
 
----
-
 路線
 
 Sanur Harbor
@@ -166,7 +152,7 @@ Jungut Batu Harbor
 
 ↓
 
-藍夢島飯店
+Lembongan Beach Club & Resort
 
 ---
 
@@ -176,11 +162,9 @@ Jungut Batu Harbor
 
 2027/01/29
 
----
-
 路線
 
-Batu Karang
+Lembongan Beach Club & Resort
 
 ↓
 
@@ -196,7 +180,7 @@ Sanur Harbor
 
 ↓
 
-Sanur Hotel
+Taksu Sanur Hotel
 
 ---
 
@@ -275,16 +259,16 @@ Sanur Hotel
 
 ## 2026/11
 
-- [ ] 聯絡前三晚候選飯店
-- [ ] 聯絡 Batu Karang
+- [x] 確認 Sanur 住宿
+- [x] 確認藍夢島住宿
 
 ---
 
 ## 2026/12
 
-- [ ] 確認前三晚住宿
-- [ ] 確認 Batu Karang 房型
+- [ ] 確認 Fast Boat
 - [ ] 確認 Harbor Pickup
+- [ ] 確認 Buggy 租車
 
 ---
 
@@ -294,17 +278,29 @@ Sanur Hotel
 
 ---
 
+# 💰 住宿費用總覽
+
+| 日期 | 飯店 | 房型 | 金額 |
+|--------|--------|--------|--------|
+| 01/23 ~ 01/24 | Taksu Sanur Hotel | Family Room | NT$ 4,000 |
+| 01/24 ~ 01/29 | Lembongan Beach Club & Resort | 2 Bedroom Private Pool Villa | NT$ 45,000 |
+| 01/29 ~ 01/30 | Taksu Sanur Hotel | Family Room | NT$ 4,000 |
+
+**住宿總金額：NT$ 53,000**
+
+---
+
 # ✅ 目前住宿狀態
 
-| 日期 | 地點 | 狀態 |
-|--------|--------|--------|
-| 1/23 | Sanur | 待確認 |
-| 1/24 | 藍夢島 | 待確認 |
-| 1/25 | 藍夢島 | 待確認 |
-| 1/26 | 藍夢島 | 待確認 |
-| 1/27 | Batu Karang | 已決定 |
-| 1/28 | Batu Karang | 已決定 |
-| 1/29 | Sanur | 待確認 |
+| 日期 | 地點 | 飯店 | 狀態 |
+|--------|--------|--------|--------|
+| 1/23 | Sanur | Taksu Sanur Hotel | ✅ 已預訂 |
+| 1/24 | 藍夢島 | Lembongan Beach Club & Resort | ✅ 已預訂 |
+| 1/25 | 藍夢島 | Lembongan Beach Club & Resort | ✅ 已預訂 |
+| 1/26 | 藍夢島 | Lembongan Beach Club & Resort | ✅ 已預訂 |
+| 1/27 | 藍夢島 | Lembongan Beach Club & Resort | ✅ 已預訂 |
+| 1/28 | 藍夢島 | Lembongan Beach Club & Resort | ✅ 已預訂 |
+| 1/29 | Sanur | Taksu Sanur Hotel | ✅ 已預訂 |
 
 ---
 

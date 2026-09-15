@@ -73,7 +73,7 @@ DPS Airport
 
 ↓
 
-Sanur Hotel
+Taksu Sanur Hotel
 
 預估車程 30~45 分鐘
 
@@ -82,6 +82,8 @@ Sanur Hotel
 ### 飯店
 
 16:30 Check-in
+
+🏨 Taksu Sanur Hotel
 
 Sanur 海邊散步
 
@@ -114,7 +116,7 @@ Sanur 海邊散步
 
 07:00
 
-🍳 Sanur 飯店早餐
+🍳 Taksu Sanur 飯店早餐
 
 ---
 
@@ -124,7 +126,7 @@ Sanur 海邊散步
 
 🚕 Grab
 
-Sanur Hotel
+Taksu Sanur Hotel
 
 ↓
 
@@ -150,9 +152,9 @@ Sanur Harbor
 
 🏨 Check-in
 
-藍夢島飯店
+Lembongan Beach Club & Resort
 
-（前三晚飯店待確認）
+2 Bedroom Private Pool Villa
 
 ---
 
@@ -195,6 +197,8 @@ Sanur Harbor
 ✅ Buggy 環島
 
 ✅ Devil's Tear 日落
+
+✅ 入住 Villa
 
 ---
 
@@ -389,11 +393,7 @@ Coffee & Cake
 
 ---
 
-### 中午
-
-11:30 Check-out
-
----
+### 午餐
 
 12:00
 
@@ -405,27 +405,25 @@ Coffee & Cake
 
 ---
 
-13:30
+### 下午
 
-🏨 Check-in
+14:00
 
-Batu Karang
+🏖️ Private Pool Time
 
-（後兩晚）
+📸 整理照片
+
+☕ Afternoon Coffee
 
 ---
 
-### 下午
+### 傍晚
 
-15:00
+17:00
 
-☕
+🌅 Jungut Batu 散步
 
-The Deck
-
-🏖️ Pool Time
-
-📸 整理照片
+欣賞夕陽
 
 ---
 
@@ -435,15 +433,21 @@ The Deck
 
 🥩 Indiana Kenanga
 
+或
+
+🦞 Sandy Bay Beach Club
+
 ---
 
 ### 今日重點
 
 ✅ 第二次衝浪
 
-✅ 入住 Batu Karang
+✅ Villa 放空時光
 
-✅ 家庭正式晚餐
+✅ 家庭晚餐
+
+✅ 不搬飯店更輕鬆
 
 ---
 
@@ -460,7 +464,7 @@ The Deck
 
 路線：
 
-Batu Karang
+Lembongan Beach Club
 
 ↓
 
@@ -473,6 +477,10 @@ Panorama Point
 ↓
 
 Yellow Bridge
+
+↓
+
+Dream Beach
 
 ↓
 
@@ -498,7 +506,11 @@ Yellow Bridge
 
 12:00
 
-🍝 Batu Karang Restaurant
+🍝 飯店餐廳
+
+或
+
+🍔 海邊餐廳
 
 ---
 
@@ -506,7 +518,7 @@ Yellow Bridge
 
 14:00
 
-🏖️ 泳池
+🏖️ Villa Private Pool
 
 ☕
 
@@ -526,7 +538,11 @@ Yellow Bridge
 
 18:30
 
-🥩 Batu Karang Restaurant
+🦐 Ohana's Beach Club
+
+或
+
+🍝 飯店餐廳
 
 ---
 
@@ -534,7 +550,9 @@ Yellow Bridge
 
 ✅ 完全不排行程
 
-✅ 享受 Batu Karang
+✅ Villa 泳池享受
+
+✅ 家庭放空日
 
 ✅ 最後完整一天
 
@@ -547,7 +565,7 @@ Yellow Bridge
 
 07:00
 
-🍳 Batu Karang
+🍳 Lembongan Beach Club 早餐
 
 ---
 
@@ -605,13 +623,17 @@ Sanur Harbor
 
 ↓
 
-Sanur Hotel
+Taksu Sanur Hotel
 
 ---
 
 15:30
 
 🏨 Check-in
+
+Taksu Sanur Hotel
+
+Family Room
 
 ---
 
@@ -650,7 +672,7 @@ Sanur Beach Walk
 
 07:30
 
-🍳 Sanur 飯店早餐
+🍳 Taksu Sanur 飯店早餐
 
 ---
 
@@ -692,7 +714,7 @@ Check-out
 
 🚗 Grab
 
-Sanur Hotel
+Taksu Sanur Hotel
 
 ↓
 

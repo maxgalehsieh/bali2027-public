@@ -2,7 +2,11 @@
 
 > Jan 23 - Jan 30, 2027
 >
-> Maxgale • Pei • Ethan • Lisa
+> 👨‍👩‍👧‍👦 Maxgale • Pei • Ethan • Lisa
+>
+> 🏡 7 Nights | 🌊 Sanur + Nusa Lembongan | ✈️ CI771 / CI772
+>
+> 🏄 Surf × 2 | 🐟 Manta Snorkeling | 🚗 Buggy Island Tour | 💆 SPA
 
 ---
 
@@ -28,16 +32,28 @@ CI772
 
 ## 🏨 住宿
 
-### Sanur
+### Taksu Sanur Hotel
 
-- Day 1
-- Day 7
+📍 Sanur
 
-### Batu Karang Resort
+入住：
+
+- 2027/01/23 ~ 2027/01/24
+- 2027/01/29 ~ 2027/01/30
+
+房型：
+
+Family Room
+
+（1 特大床 + 2 單人床）
+
+---
+
+### Lembongan Beach Club & Resort
 
 📍 Nusa Lembongan
 
-https://batukaranglembongan.com/
+https://lembonganbeachclub.com/
 
 入住：
 
@@ -45,9 +61,19 @@ https://batukaranglembongan.com/
 
 共 5 晚
 
+房型：
+
+2 Bedroom Private Pool Villa
+
+床型：
+
+2 張特大雙人床
+
 ---
 
 ## 🌟 本次旅行亮點
+
+✅ Lembongan Beach Club Private Pool Villa
 
 ✅ Buggy 環島
 
@@ -59,7 +85,9 @@ https://batukaranglembongan.com/
 
 ✅ SPA
 
-✅ Batu Karang 放空日
+✅ Villa Relax Day
+
+✅ Sanur 美食與海邊散步
 
 ---
 
@@ -69,12 +97,40 @@ https://batukaranglembongan.com/
 |------|------|
 | Day 1 | 抵達峇里島、入住 Sanur |
 | Day 2 | 快艇前往藍夢島、Buggy 環島 |
-| Day 3 | 衝浪課 #1 + SUP |
+| Day 3 | 衝浪課 #1 + Family SUP |
 | Day 4 | 私人包船浮潛 + SPA |
 | Day 5 | 衝浪課 #2 |
-| Day 6 | 放空日 |
+| Day 6 | Villa Relax Day |
 | Day 7 | 返回 Sanur |
 | Day 8 | 返回台灣 |
+
+---
+
+## 🏨 住宿總覽
+
+| 日期 | 地點 | 飯店 |
+|------|------|------|
+| 1/23 | Sanur | Taksu Sanur Hotel |
+| 1/24 | Nusa Lembongan | Lembongan Beach Club & Resort |
+| 1/25 | Nusa Lembongan | Lembongan Beach Club & Resort |
+| 1/26 | Nusa Lembongan | Lembongan Beach Club & Resort |
+| 1/27 | Nusa Lembongan | Lembongan Beach Club & Resort |
+| 1/28 | Nusa Lembongan | Lembongan Beach Club & Resort |
+| 1/29 | Sanur | Taksu Sanur Hotel |
+
+---
+
+## 💰 已確認費用
+
+| 項目 | 金額 |
+|------|------|
+| 機票 | NT$64,600 |
+| Taksu Sanur Hotel（2晚） | NT$8,000 |
+| Lembongan Beach Club（5晚） | NT$45,000 |
+
+### 已確認總額
+
+**NT$117,600**
 
 ---
 
@@ -92,21 +148,22 @@ https://batukaranglembongan.com/
 
 ## 🎯 目前待辦
 
-### 飯店
+### 交通
 
+- [ ] Fast Boat
 - [ ] Harbor Pickup
 - [ ] Buggy Rental
-- [ ] SPA Reservation
 
-### 衝浪
+### 活動
 
 - [ ] Newbro Surfing
 - [ ] Day 3 Booking
 - [ ] Day 5 Booking
+- [ ] Private Charter
+- [ ] SPA Reservation
 
 ### 浮潛
 
-- [ ] Private Charter
 - [ ] Manta Point
 - [ ] Crystal Bay
 - [ ] Gamat Bay
@@ -117,6 +174,7 @@ https://batukaranglembongan.com/
 - [ ] Passport
 - [ ] IDP 國際駕照
 - [ ] Travel Insurance
+- [ ] eSIM
 
 ---
 
@@ -125,10 +183,10 @@ https://batukaranglembongan.com/
 | 項目 | 預算 |
 |------|------|
 | Buggy | NT$1,000 ~ 1,800 |
-| Surf Coaching ×2 | NT$4,000 ~ 7,000 |
+| Surf Coaching ×2 | NT$4,500 ~ 9,000 |
 | 私人包船浮潛 | NT$5,000 ~ 10,000 |
 | SPA | NT$2,000 ~ 6,000 |
-| 合計 | NT$12,000 ~ 25,000 |
+| 合計 | NT$12,500 ~ 26,800 |
 
 ---
 
@@ -141,4 +199,20 @@ https://batukaranglembongan.com/
 
 ---
 
-Last Updated: 2026-08-08
+## 🎯 Trip Goal
+
+✅ Family Time
+
+✅ Surf Progress
+
+✅ Manta Snorkeling
+
+✅ Ocean View & Sunset
+
+✅ Relax & Recharge
+
+✅ Bali 2027 Memories
+
+---
+
+Last Updated: 2026-09-15

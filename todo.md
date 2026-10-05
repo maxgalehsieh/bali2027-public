@@ -28,10 +28,10 @@
 ## 已完成
 
 - [x] 購買機票
+- [x] 網路報到
 
 ## 待完成
 
-- [ ] 網路報到
 - [ ] 行李確認
 
 ---
@@ -66,31 +66,11 @@
 
 ## 飯店聯絡
 
-- [ ] 確認 Harbor Pickup
+- [ ] 確認 Fast boat: 1/24 Sanur Harbor → Lembongan Beach Club (已mail飯店等待回覆)
+- [ ] 確認 Fast boat: 1/29 Lembongan Beach Club → Jungut Batu Harbor (已mail飯店等待回覆)
+- [ ] 確認 Harbor Pickup 
 - [ ] 確認 Check-in 流程
 - [ ] 確認行李協助服務
-
----
-
-# 🚤 交通
-
-## Fast Boat
-
-- [ ] 比較船公司
-- [ ] 選定船公司
-- [ ] 購買船票
-
----
-
-## Harbor Transfer
-
-### 1/24
-
-- [ ] Sanur Harbor → Lembongan Beach Club
-
-### 1/29
-
-- [ ] Lembongan Beach Club → Jungut Batu Harbor
 
 ---
 
@@ -214,10 +194,10 @@ LINE：
 
 ## 護照
 
-- [ ] Maxgale
-- [ ] Pei
-- [ ] Ethan
-- [ ] Lisa
+- [x] Maxgale
+- [x] Pei
+- [x] Ethan
+- [x] Lisa
 
 ---
 

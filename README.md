@@ -1,12 +1,31 @@
-# 🌴 Bali & Nusa Lembongan Family Trip 2027
+## 🌴 Bali & Nusa Lembongan Family Trip 2027
 
-> Jan 23 - Jan 30, 2027
->
-> 👨‍👩‍👧‍👦 Maxgale • Pei • Ethan • Lisa
->
-> 🏡 7 Nights | 🌊 Sanur + Nusa Lembongan | ✈️ CI771 / CI772
->
-> 🏄 Surf × 2 | 🐟 Manta Snorkeling | 🚗 Buggy Island Tour | 💆 SPA
+Jan 23 – Jan 30, 2027
+
+👨‍👩‍👧‍👦 Maxgale • Pei • Ethan • Lisa
+
+🏄 Surf × 2 | 🤿 Snorkeling | 🚤 Island Adventure | ☕ Relax
+
+---
+
+## 🗺️ Nusa Lembongan Master Map
+
+<p align="center">
+<img src="./images/nusa-lembongan-map.png>
+</p>
+
+---
+
+## 📅 Trip Overview
+
+- Day 1｜Arrival in Bali
+- Day 2｜Sanur → Nusa Lembongan
+- Day 3｜Surf + SUP
+- Day 4｜Snorkeling + SPA
+- Day 5｜Advanced Surf
+- Day 6｜Relax Day
+- Day 7｜Return to Sanur
+- Day 8｜Back to Taiwan
 
 ---
 

@@ -85,7 +85,7 @@ CI772
 | Day 1 | 抵達峇里島、入住 Sanur |
 | Day 2 | 快艇前往藍夢島、Buggy 環島 |
 | Day 3 | 衝浪課 #1 + Family SUP |
-| Day 4 | 私人包船浮潛 + SPA |
+| Day 4 | 浮潛 + SPA |
 | Day 5 | 衝浪課 #2 |
 | Day 6 | Villa Relax Day |
 | Day 7 | 返回 Sanur |
@@ -137,7 +137,7 @@ CI772
 
 ### 交通
 
-- [ ] Fast Boat
+- [x] Fast Boat
 - [ ] Harbor Pickup
 - [ ] Buggy Rental
 
@@ -146,7 +146,6 @@ CI772
 - [ ] Newbro Surfing
 - [ ] Day 3 Booking
 - [ ] Day 5 Booking
-- [ ] Private Charter
 - [ ] SPA Reservation
 
 ### 浮潛
@@ -158,7 +157,7 @@ CI772
 
 ### 文件
 
-- [ ] Passport
+- [x] Passport
 - [ ] IDP 國際駕照
 - [ ] Travel Insurance
 - [ ] eSIM
@@ -171,7 +170,7 @@ CI772
 |------|------|
 | Buggy | NT$1,000 ~ 1,800 |
 | Surf Coaching ×2 | NT$4,500 ~ 9,000 |
-| 私人包船浮潛 | NT$5,000 ~ 10,000 |
+| 浮潛 | NT$5,000 ~ 10,000 |
 | SPA | NT$2,000 ~ 6,000 |
 | 合計 | NT$12,500 ~ 26,800 |
 
@@ -202,4 +201,4 @@ CI772
 
 ---
 
-Last Updated: 2026-09-15
+Last Updated: 2026-10-18

@@ -108,7 +108,7 @@ Taksu Sanur Hotel
 
 ### 上午
 
-08:45 🚕 Grab
+08:15 🚕 Grab
 
 Taksu Sanur Hotel
 
@@ -118,13 +118,35 @@ Sanur Harbor
 
 ---
 
-09:30 港口報到
+08:30 抵達 Sanur Harbor
 
-10:00 Fast Boat 🚤 出發
+📍 Equator Fast Boat Counter
 
-10:40 抵達 Jungut Batu
+⚠️ 須於開船前 1 小時完成報到與取票
+
+Google Maps： https://maps.app.goo.gl/Tkcret7k2HUQ39qR9
+
+☕ 等候期間可至 TJ's Coffee Lounge
+免費享用：
+- Infused Water
+- Coffee
+- Tea
 
 ---
+
+09:30 🚤 Equator Fast Boat
+
+Sanur Harbor
+
+↓
+
+約 10:10 抵達 Jungut Batu Harbor
+
+---
+
+飯店接駁車
+
+↓
 
 11:15 🏨 Check-in Lembongan Beach Club & Resort - 2 Bedroom Private Pool Villa
 
@@ -465,43 +487,39 @@ Dream Beach
 
 ---
 
-11:00 Check-out
+10:30 Check-out & 前往碼頭
 
 ---
 
-### 午餐
+11:00 抵達碼頭
 
-12:00 🍔 簡單午餐
+📍 Equator Fast Boat Counter
 
----
-
-### 下午
-
-13:30 前往碼頭
+⚠️ 開船前 1 小時完成報到與取票
 
 ---
 
-14:00 🚤 返回 Sanur
+12:00 🚤 Equator Fast Boat
 
-Jungut Batu
+Lembongan
 
 ↓
 
 Sanur Harbor
 
+約 12:40 ~ 13:00 抵達
+
 ---
 
-15:00 🚕 Grab
+13:30 🍝 Sanur 午餐
 
-Sanur Harbor
+14:30 🚕 Grab
 
 ↓
 
 Taksu Sanur Hotel
 
----
-
-15:30 🏨 Check-in Taksu Sanur Hotel Family Room
+15:00 🏨 Check-in Taksu Sanur Hotel Family Room
 
 ---
 

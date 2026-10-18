@@ -126,7 +126,7 @@ Sanur ⇄ Nusa Lembongan
 
 | 項目 | 預算 |
 |------|------|
-| 來回船票 | NT$3,000 ~ 6,000 |
+| 來回船票 | NT$0 (飯店免費接駁)|
 
 ---
 
@@ -184,7 +184,7 @@ Surf Coaching #2
 
 ---
 
-# 🐟 私人包船浮潛
+# 🐟 浮潛
 
 日期：
 
@@ -328,11 +328,10 @@ Surf Coaching #2
 
 # ⏳ 待確認
 
-- [ ] Fast Boat
+- [x] Fast Boat
 - [ ] Harbor Pickup
 - [ ] Buggy
 - [ ] Surf Coaching
-- [ ] Private Charter
 - [ ] SPA
 - [ ] eSIM
 - [ ] 旅遊保險

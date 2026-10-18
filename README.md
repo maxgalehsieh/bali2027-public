@@ -10,9 +10,7 @@ Jan 23 – Jan 30, 2027
 
 ## 🗺️ Nusa Lembongan Master Map
 
-<p align="center">
-<img src="./images/nusa-lembongan-map.png>
-</p>
+![Nusa Lembongan Master Map](images/nusa-lembongan-map.png)
 
 ---
 

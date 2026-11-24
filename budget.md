@@ -329,11 +329,11 @@ Surf Coaching #2
 # ⏳ 待確認
 
 - [x] Fast Boat
-- [ ] Harbor Pickup
+- [x] Harbor Pickup
 - [ ] Buggy
 - [ ] Surf Coaching
 - [ ] SPA
-- [ ] eSIM
+- [x] eSIM
 - [ ] 旅遊保險
 
 ---
